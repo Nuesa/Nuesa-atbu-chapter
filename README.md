@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>NUESA ATBU</title>
@@ -140,7 +140,7 @@
   </div>
 </body>
 </html>
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Updates - NUESA ATBU</title>
@@ -213,7 +213,7 @@
 ```
 
 Za ka iya ƙara sabbin updates ko sanarwa a cikin wannan shafi. Kana so in rubuta misalin shafin Wasanni ma? ⚽
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Labarai - NUESA ETBU</title>
