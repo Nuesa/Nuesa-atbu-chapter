@@ -76,7 +76,7 @@
   <title>Wasanni - NUESA ETBU</title>
   <style>
     body {
-      background-image: url('nuesa.jpg');
+      background-image: url('nuesa.png');
       background-size: cover;
       font-family: Arial, sans-serif;
       margin: 0;
@@ -146,7 +146,7 @@
   <title>Updates - NUESA ATBU</title>
   <style>
     body {
-      background-image: url("nuesa.jpg');
+      background-image: url("nuesa.png');
       background-size: cover;
       font-family: Arial, sans-serif;
       margin: 0;
@@ -216,10 +216,10 @@ Za ka iya ƙara sabbin updates ko sanarwa a cikin wannan shafi. Kana so in rubut
 
 <html>
 <head>
-  <title>Labarai - NUESA ETBU</title>
+  <title>news- NUESA ATBU</title>
   <style>
     body {
-      background-image: url('nuesa.jpg');
+      background-image: url('nuesa.png');
       background-size: cover;
       font-family: Arial, sans-serif;
       margin: 0;
@@ -277,8 +277,51 @@ Za ka iya ƙara sabbin updates ko sanarwa a cikin wannan shafi. Kana so in rubut
     <img src="atbu.png" class="school-badge" alt="ETBU Badge">
   </div>
   <div class="main-content">
-    <h1>Labarai</h1>
-    <p>Anan zaka karanta sabbin labarai da abubuwan da ke faruwa a NUESA ETBU.</p>
+    <h1>news</h1>
+    <img src="IMG-20250710-WA0023.jpg" 
+    <p>_A New Era for NUESA: Empowering Students, Enhancing Experience_
+
+Dear fellow students,
+
+I'm excited to embark on this journey with you, driven by a passion to serve and make a positive impact. As a concerned NUESite, I'm committed to amplifying your voices, addressing your concerns, and enhancing your overall experience.
+
+*My Vision*
+
+- *Student-Centric Approach*: Putting your needs at the forefront of decision-making
+- *Inclusive Representation*: Ensuring every student's voice is heard and valued
+- *Collaborative Leadership*: Working with student organizations and faculty to drive positive change
+
+Let's work together to build a brighter future for NUESA. Your support and input are invaluable. Let's make a difference!
+
+*Together, We Can Achieve Great Things!*
+
+Cmr. Musa Umar Musa ( Khalimullah )
+Concerned NUESite
+
+#BetterNUESA #TeamKHALIMULLAH
+#NUESAforChange
+#GreatNuesites_A New Era for NUESA: Empowering Students, Enhancing Experience_
+
+Dear fellow students,
+
+I'm excited to embark on this journey with you, driven by a passion to serve and make a positive impact. As a concerned NUESite, I'm committed to amplifying your voices, addressing your concerns, and enhancing your overall experience.
+
+*My Vision*
+
+- *Student-Centric Approach*: Putting your needs at the forefront of decision-making
+- *Inclusive Representation*: Ensuring every student's voice is heard and valued
+- *Collaborative Leadership*: Working with student organizations and faculty to drive positive change
+
+Let's work together to build a brighter future for NUESA. Your support and input are invaluable. Let's make a difference!
+
+*Together, We Can Achieve Great Things!*
+
+Cmr. Musa Umar Musa ( Khalimullah )
+Concerned NUESite
+
+#BetterNUESA #TeamKHALIMULLAH
+#NUESAforChange
+#GreatNuesitesNUESA ETBU.</p>
     <!-- Za ka iya ƙara labarai anan -->
   </div>
 </body>
