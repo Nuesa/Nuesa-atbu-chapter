@@ -73,7 +73,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Wasanni - NUESA ETBU</title>
+  <title>Wasanni - NUESA ATBU</title>
   <style>
     body {
       background-image: url('nuesa.png');
@@ -135,8 +135,8 @@
   </div>
   <div class="main-content">
     <h1>games</h1>
-    <p>Anan zaka karanta duk labaran wasanni da gasar da ake yi a NUESA ATBU.</p>
-    <!-- Ka ƙara labaran wasanni anan -->
+    <p> the inter departmental food ball will commence NUESA ATBU.</p>
+    <!-- foot ball troophy -->
   </div>
 </body>
 </html>
@@ -205,14 +205,11 @@
   </div>
   <div class="main-content">
     <h1>Updates</h1>
-    <p>Anan zaka samu sabbin updates da sanarwa daga NUESA ETBU.</p>
-    <!-- Ka ƙara sabbin updates anan -->
+    <p>it's a second semester full of activities NUESA ATBU.</p>
+    <!-- voting is around the corner-->
   </div>
 </body>
 </html>
-```
-
-Za ka iya ƙara sabbin updates ko sanarwa a cikin wannan shafi. Kana so in rubuta misalin shafin Wasanni ma? ⚽
 
 <html>
 <head>
@@ -278,7 +275,7 @@ Za ka iya ƙara sabbin updates ko sanarwa a cikin wannan shafi. Kana so in rubut
   </div>
   <div class="main-content">
     <h1>news</h1>
-    <img src="IMG-20250710-WA0023.jpg" 
+    <img src="IMG-20250710-WA0023.png" 
     <p>_A New Era for NUESA: Empowering Students, Enhancing Experience_
 
 Dear fellow students,
@@ -322,10 +319,7 @@ Concerned NUESite
 #BetterNUESA #TeamKHALIMULLAH
 #NUESAforChange
 #GreatNuesitesNUESA ETBU.</p>
-    <!-- Za ka iya ƙara labarai anan -->
+  
   </div>
 </body>
 </html>
-```
-
-Za ka iya amfani da wannan tsarin a sauran shafuka, sai ka canza taken da abun ciki. Kana so in rubuta misalin shafin Wasanni ko Updates ma? 😊
